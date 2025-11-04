@@ -2,7 +2,7 @@
 
 
 
-Generates a snake game from a github user contributions graph
+
 
 <picture>
   <source
@@ -19,6 +19,5 @@ Generates a snake game from a github user contributions graph
   />
 </picture>
 
-Pull a github user's contribution graph.
-Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+
 
